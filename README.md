@@ -11,4 +11,4 @@ JUnit: Framework de testes para validar o comportamento das funcionalidades impl
 # Cenario no Cucumber 
 No arquivo chamado "testes.feature", utilizando o cucumber foram criados os cenarios que serão parametros para o projeto.
 
-<img src="img/testes.feature.png"
+<img src="img/testes.feature.png">
