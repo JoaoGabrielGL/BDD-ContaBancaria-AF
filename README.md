@@ -12,3 +12,14 @@ O Desenvolvimento Orientado a Comportamento (BDD) é uma abordagem que se concen
 No arquivo chamado "testes.feature", utilizando o cucumber foram criados os cenarios que serão parametros para o projeto.
 
 <img src="img/testes.feature.png">
+
+# Classe Conta Bancaria 
+Nessa classe foram desenvolvidos os metodos que seram base para o funcionamento da conta bancaria e suas atividades
+além disso ela esta integrada com o framework cucumber utilizando-se de suas funcionalidades para fazer os testes que nela são necessarios. 
+ <img src="img/Classconta1.png">
+
+# Testes Junit 
+Apresentação dos testes que foram realizados dentro do projeto da conta bancaria utilizando BDD, Cucumber e Junit
+
+<img src="img/TestesJunit.png">
+
